@@ -487,3 +487,4 @@ module Sudoku
 end
 
 Sudoku::Runner.new(['puzzles/http_magictour.free.fr_top2365.txt']).run
+#Sudoku::Runner.new(['puzzles/samples.txt']).run
